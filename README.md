@@ -1,5 +1,5 @@
 **Deskripsi Proyek**
-Proyek ini bertujuan untuk membangun sistem manajemen pesanan dan inventaris yang terintegrasi dengan menggunakan database relasional. Sistem ini mencakup pengelolaan pesanan, produk, pelanggan, dan karyawan untuk memastikan kelancaran operasional dan manajemen stok yang efisien.
+Proyek ini bertujuan untuk membangun sistem manajemen pesanan dan inventaris yang terintegrasi dengan menggunakan database relasional. Sistem ini mencakup pengelolaan pesanan, produk, pelanggan, dan karyawan untuk memastikan kelancaran operasional dan manajemen stok yang efisien. Proyek ini dikerjakan dengan menggunakan PostgreSQL.
 
 **Struktur Database**
 Struktur database dirancang untuk mendukung berbagai entitas utama seperti customers, orders, products, employees, order details, payments, categories, dan suppliers. Berikut adalah tabel-tabel utama yang digunakan:
